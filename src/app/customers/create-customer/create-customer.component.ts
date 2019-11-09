@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { Customer } from '../customer.model';
+import { Customer } from '../../model/customer';
 import { CustomerService } from '../customer.service';
 
 @Component({
